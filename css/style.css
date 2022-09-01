@@ -143,3 +143,58 @@ hr{
         width: 200px
     }
 }
+
+
+/*--Currency Converter--*/
+.container{
+    display: block;
+}
+.swapBtn{
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 14px 40px;
+    width: 200px;
+    border: none;
+    background: #0043ee;
+    outline: none;
+}
+
+
+.currency{
+    display: flex;
+    padding: 1re;
+    align-items: center;
+    justify-content: space-between;
+    width: 10rem;
+    padding: 6px;
+    position: relative;
+}
+
+
+
+.currency select {
+    width: auto;
+    border: 1px solid rgba(128, 128, 128, 0.096);
+    font-size: 16px;
+    background-color: rgba(211, 211, 211, 0.486);
+    padding: 12px 10px;
+    outline: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #0043ee
+}
+
+.currency input{
+    font-family: sans-serif;
+    max-width: 5rem;
+    padding: .5rem;
+    border: solid rgb(162, 155, 155);
+    border-width: 0 0 2px;
+    text-align: right;
+    margin-left: 50px;
+    font-size: 20px;
+    color: #0043ee;
+}
