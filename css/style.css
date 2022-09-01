@@ -62,3 +62,55 @@
 .slider img{
     width: 100%;
 }
+
+
+hr{
+    border: none;
+    width: 270px;
+    height: 1px;
+    margin: 20px 0 30px;
+    background: #cdcccc;
+}
+
+.slider-content{
+    width:auto;
+    height: auto;
+    background: #0043ee;
+    padding-top: 30px;
+    padding-left: 30px;
+    box-sizing: border-box;
+
+}
+
+.slider-content h2{
+    color: #fff;
+    font-size: 26px;
+    font-weight: 100;
+}
+
+
+.slider-content p{
+    color: #cdcccc;
+    line-height: 24px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.controller{
+    width: 120px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.controller img{
+    width: 45px;
+    cursor: pointer;
+}
+
+.vertical-line{
+    height: 30px;
+    width: 2px;
+    background: #fff;
+}
