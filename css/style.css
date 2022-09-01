@@ -198,3 +198,22 @@ hr{
     font-size: 20px;
     color: #0043ee;
 }
+
+.swap-rate-container{
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rate{
+    font-size: 20px;
+    color: #0043ee;
+    padding: 6px;
+    margin-left: 12px;
+}
+select:focus, input:focus, button:focus{
+    outline: 0;
+}
+
+
+
