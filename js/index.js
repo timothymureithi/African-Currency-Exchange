@@ -39,3 +39,19 @@ backbtn.onclick = function() {
  
     } 
  }
+
+ /*Currency COnverter*/
+ /*Declaring variables*/
+
+ const currency1 = document.getElementById("currency-1")
+ const currency2 = document.getElementById("currency-2")
+ const amount1 = document.getElementById('amount-one')
+ const amount2 = document.getElementById('amount-two')
+ const Convrate = document.getElementById('rate')
+ const swapbutton = document.getElementById('swap')
+
+ /*Define an change event listeners. */
+ currency1.addEventListener('change', calculate);
+ currency2.addEventListener('change', calculate);
+ amount1.addEventListener('input', calculate );
+ amount2.addEventListener('input', calculate)
