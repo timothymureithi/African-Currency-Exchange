@@ -24,3 +24,41 @@
     margin-top: 30px;
     margin-left: 100px;
 }
+
+
+.content{
+    width: 75%;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+}
+
+.content h1{
+    color: #0043ee;
+    font-size: 37px;
+    line-height: 30px;
+    margin: 25px 0;
+    margin-left: 20px;
+}
+
+.content p{
+    color: #0043ee;
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.slider{
+    width: 100%;
+    height: 60%;
+    display:flex;
+}
+
+.slider img{
+    width: 100%;
+}
