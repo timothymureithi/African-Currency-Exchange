@@ -73,3 +73,12 @@ backbtn.onclick = function() {
 
   });
 }
+
+ //An event listener button that will allow the functionality of swapping currencies. Eg. GBP to USD --> USD to GBP
+ swap.addEventListener('click', () => {
+    const tempVar = currency1.value;
+    currency1.value = currency2.value;
+    currency2.value = tempVar;
+    calculate();
+
+ })
