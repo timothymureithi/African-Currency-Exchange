@@ -16,3 +16,26 @@ const sliderImg = new Array(
     "images/img4.jpg",
 
 );
+
+//Array images order 0-1, therefore i = 0
+let i = 0;
+
+//function for next button. Starts from 0 the increments by 1 (i++)
+nextbtn.onclick = function() {
+   if (i < 3){
+    slide.src = sliderImg[i+1];
+    
+    i++;
+
+   } 
+}
+
+//function for back button. Inverse of the next button i--
+backbtn.onclick = function() {
+    if (i > 0){
+     slide.src = sliderImg[i+1];
+     
+     i--;
+ 
+    } 
+ }
