@@ -71,7 +71,7 @@ This is a single page application that converts currencies of African nations. O
 - [African Currency Converter](https://timothymureithi.github.io/African-Currency-Exchange/)
 
 **Future Implementation**
-- Turn this practice into a react native application with more features such as Forex Market analysis and Binary Optioons Trading Signals. 
+- Try and work more on making my applications mobile responsive. In addition, turn this practice into a react native application with more features such as Forex Market analysis and Binary Optioons Trading Signals. 
 
 
 **Developer**
