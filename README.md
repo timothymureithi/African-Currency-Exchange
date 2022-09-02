@@ -68,6 +68,7 @@ This is a single page application that converts currencies of African nations. O
 ![](images/Screenshot%20from%202022-09-02%2003-16-54.png)
 
 **LINK**
+- [African Currency Converter](https://timothymureithi.github.io/African-Currency-Exchange/)
 
 **Future Implementation**
 - Turn this practice into a react native application with more features such as Forex Market analysis and Binary Optioons Trading Signals. 
