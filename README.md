@@ -74,5 +74,5 @@ This is a single page application that converts currencies of African nations. O
 - Turn this practice into a react native application with more features such as Forex Market analysis and Binary Optioons Trading Signals. 
 
 
-## Developer
+**Developer**
 - [Timothy Mureihti](https://github.com/timothymureithi/)
