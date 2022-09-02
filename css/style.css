@@ -192,7 +192,7 @@ hr{
 
 .currency input{
     font-family: sans-serif;
-    max-width: 5rem;
+    max-width: 50rem;
     padding: .5rem;
     border: solid rgb(162, 155, 155);
     border-width: 0 0 2px;
