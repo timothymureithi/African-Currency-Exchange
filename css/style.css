@@ -146,10 +146,12 @@ hr{
 }
 
 
-/*--Currency Converter--*/
+/*--Currency Converter Overall css--*/
 .container{
     display: block;
 }
+
+/*Swap Button UI*/
 .swapBtn{
     color: #fff;
     cursor: pointer;
@@ -163,7 +165,7 @@ hr{
     outline: none;
 }
 
-
+/*Currency UI*/
 .currency{
     display: flex;
     padding: 1re;
@@ -194,12 +196,13 @@ hr{
     padding: .5rem;
     border: solid rgb(162, 155, 155);
     border-width: 0 0 2px;
-    text-align: right;
+    text-align: center;
     margin-left: 50px;
     font-size: 20px;
     color: #0043ee;
 }
 
+/*Swap Button UI*/
 .swap-rate-container{
     display: block;
     align-items: center;
@@ -222,6 +225,7 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 
+/*Set color for marquee*/
 .setMcolor{
     background:rgb(225, 218, 218);
     color:#0043ee;
