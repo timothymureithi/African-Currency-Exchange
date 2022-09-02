@@ -75,4 +75,4 @@ This is a single page application that converts currencies of African nations. O
 
 
 **Developer**
-- [Timothy Mureihti](https://github.com/timothymureithi/)
+- [Timothy Mureithi](https://github.com/timothymureithi/)
